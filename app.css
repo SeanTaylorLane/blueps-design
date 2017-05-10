@@ -234,14 +234,14 @@ div.byline__text {
     align-items: flex-start;
     color: white;
     font-size: 20px;
-    padding-left: 20px;
+    padding-left: 5px;
 }
 
 div.byline__text div {
     margin: 8px 0;
 /*    font-style: oblique;*/
     font-weight: 400;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 div.byline__text div p {

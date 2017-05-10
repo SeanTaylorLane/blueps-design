@@ -26,9 +26,12 @@ iframe {
     transform: scale(0.5);
 }
 
+::scrollbar { 
+    display: none; 
+}
+
 .text-wrapper {
-    margin-top: -300px;
-    padding-bottom: 50px;
+    margin-top: -330px;
 }
 
 h1 {
